@@ -151,13 +151,12 @@ set ffs=unix,dos,mac
 set nobackup
 set nowb
 set noswapfile
+set mouse=a
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Use spaces instead of tabs
-set expandtab
 
 " Be smart when using tabs ;)
 set smarttab
